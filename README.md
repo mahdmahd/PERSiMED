@@ -77,7 +77,7 @@ Tested on **2,000 anonymized medical documents** from Saman Insurance Company:
 - **7.2x faster** processing vs manual review (avg. 47 seconds/document)  
 - **$1.2M recovered** in detected fraud during pilot deployment  
 
-![Document Processing Workflow](demo-visualization.png)  
+![Document Processing Workflow](persimed_flowchart.pdf)  
 *Figure: Input document (left) → Semantic annotation (middle) → Structured HTML output (right)*
 
 ---
