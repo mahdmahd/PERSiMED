@@ -124,6 +124,3 @@ Distributed under the **Apache License 2.0**. See [LICENSE](LICENSE) for details
 **🌟 Empowering healthcare systems through intelligent document understanding**  
 *Developed with ❤️ for Persian-speaking insurance communities*  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Paper-green)](https://www.researchgate.net/project/PERSiMED)  
-[![Contact](https://img.shields.io/badge/Contact-Dr._Khadem-blue?logo=gmail)](mailto:khadem@persimed.ir)
