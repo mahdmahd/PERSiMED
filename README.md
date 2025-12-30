@@ -22,7 +22,7 @@ PERSiMED solves critical challenges in health insurance operations: fraud detect
 | Feature | Description | Technical Implementation |
 |---------|-------------|--------------------------|
 | **📄 Auto-Document Processing** | Handles rotation correction, boundary detection, and perspective transformation | DeepLabV3 + MobileNetV3 backbone |
-| **🌐 Multilingual Understanding** | Processes mixed Persian/English text with RTL support | GPT-5-Vision VL model |
+| **🌐 Multilingual Understanding** | Processes mixed Persian/English text with RTL support | Qwen VL model |
 | **🔍 Semantic Annotation** | Identifies medical entities (diagnoses, medications, procedures) | Context-aware NLP pipeline |
 | **💡 Fraud Detection** | Flags temporal anomalies, duplicate claims, and upcoding | Semantic similarity analysis |
 | **🗃️ Structured Outputs** | Generates annotated images, clean HTML, and JSON/XML data | BeautifulSoup + custom parsers |
@@ -74,11 +74,12 @@ Tested on **2,000 anonymized medical documents** from Saman Insurance Company:
 
 ### Key Metrics:
 - **98.7%** accuracy in critical field extraction (patient ID, diagnosis codes)  
-- **7.2x faster** processing vs manual review (avg. 47 seconds/document)  
-- **$1.2M recovered** in detected fraud during pilot deployment  
+- **7.2x faster** processing vs manual review (avg. 47 seconds/document)
 
-![Document Processing Workflow](persimed_flowchart.pdf)  
-*Figure: Input document (left) → Semantic annotation (middle) → Structured HTML output (right)*
+![Document Processing Workflow](persimed_flowchart_Page1.png)  
+![Document Processing Workflow](persimed_flowchart_Page2.png)  
+![Document Processing Workflow](persimed_flowchart_Page3.png)  
+
 
 ---
 
