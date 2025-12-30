@@ -113,7 +113,7 @@ Tested on **2,000 anonymized medical documents** from Saman Insurance Company:
 
 ## 🙏 Acknowledgements  
 This research was conducted in collaboration with:  
-- [Saman Insurance Company](https://www.samaninsurance.com) (Tehran, Iran) for dataset provision  
+- [Saman Insurance Company](https://www.si24.ir/) (Tehran, Iran) for dataset provision  
 
 
 ## 📜 License  
